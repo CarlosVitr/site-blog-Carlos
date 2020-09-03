@@ -18,8 +18,7 @@ To get started with Gatsby on Vercel, you can use the [Gatsby CLI](https://www.g
 
 ```shell
 $ gatsby new gatsby-site
-```
-```shell
+
 # Clone este repositório
 
 $ git clone https://github.com/carlosvitr/site-blog-carlos
@@ -35,4 +34,4 @@ $ yarn
 # Execute o servidor 
 
 gatsby $ gatsby developers
-``
+```
