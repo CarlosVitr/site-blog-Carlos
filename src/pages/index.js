@@ -15,7 +15,7 @@ function Index() {
   return (
     <main>
       <Helmet>
-        <title>Meu site Gatsby + Node.js (TypeScript) API</title>
+        <title>Iniciando Projeto meu site Gatsby + Node.js (TypeScript) API</title>
       </Helmet>
       <h1>Gatsby + Node.js (TypeScript) API</h1>
       <h2> Site de <a href="https://github.com/carlosvitr" target="_blank">Carlos</a></h2>
