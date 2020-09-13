@@ -1,8 +1,8 @@
 ![Gatsby Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/gatsby.svg)
 
 # Gatsby Example
-<a href="http://carlosvitor.ml/"><img src="https://img.shields.io/static/v1?label=carlos&message=Developer&color=03bb85&style=for-the-badge&logo=dev.to"/></a>
-
+<a href="http://carlosvitor.ml/"><img src="https://img.shields.io/badge/made_by_carlos-022d36.svg?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  
 
 This directory is a brief example of a [Gatsby](https://www.gatsbyjs.org/) app with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction) that can be deployed with Vercel and zero configuration.
 
