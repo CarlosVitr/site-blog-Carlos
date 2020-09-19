@@ -23,7 +23,7 @@ $ gatsby new gatsby-site
 
 # Clone este repositório
 
-$ git clone https://github.com/carlosvitr/site-blog-carlos
+$ git clone https://github.com/carlosvitr/site-blog-carlos.git
 
 # Vá para o repositório 
 
